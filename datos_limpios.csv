@@ -1,0 +1,15 @@
+ID,Nombre,Edad,Email,Ciudad,Compras,Ingresos,CategoriaEdad
+1,Ana,28.0,ana@example.com,Madrid,3.0,1200,Joven adulto
+2,Luis,34.0,luis@example.com,Barcelona,5.0,1500,Joven adulto
+4,Carlos,45.0,carlos@example.com,Madrid,8.0,1600,Adulto
+5,Luisa,29.0,luisa@example.com,Sevilla,7.0,1700,Joven adulto
+6,Ana,28.0,ana@example.com,Madrid,3.0,1200,Joven adulto
+8,Carmen,27.0,carmen@example.com,Zaragoza,4.0,1100,Joven adulto
+10,Elena,26.0,elena@example.com,Barcelona,2.0,1500,Joven adulto
+11,Sergio,30.0,sergio@example.com,Sevilla,5.0,1250,Joven adulto
+12,Raquel,42.0,raquel@example.com,Valencia,4.0,1350,Adulto
+15,Irene,37.0,irene@example.com,Madrid,6.0,1650,Joven adulto
+16,Hugo,38.0,hugo@example.com,Sevilla,1.0,1750,Joven adulto
+17,Olivia,22.0,olivia@example.com,Valencia,8.0,1850,Joven adulto
+18,Miguel,41.0,miguel@example.com,Barcelona,9.0,1950,Adulto
+19,Laura,40.0,laura@example.com,Madrid,5.0,2050,Adulto
